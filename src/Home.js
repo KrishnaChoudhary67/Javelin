@@ -54,7 +54,7 @@ navigate("/item",data)
             src={item.image}
             alt='...'
             position='top' style={{width:"100px",height:"100px"}}
-          />e
+          />
           </center>
           <MDBCardBody>
             <MDBCardTitle>{item.title}</MDBCardTitle>
